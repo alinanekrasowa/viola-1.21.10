@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": "viola:white_stone_bricks"
+    },
+    "result": {
+        "id": "viola:white_stone_bricks_slab",
+        "count": 1
+    }
+}

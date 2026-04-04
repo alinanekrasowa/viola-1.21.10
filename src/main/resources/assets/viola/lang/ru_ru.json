@@ -1,0 +1,21 @@
+{
+  "block.viola.andesite_bricks": "Андезитовые кирпичи",
+  "block.viola.andesite_bricks_stairs": "Андезитовые кирпичные ступеньки",
+  "block.viola.andesite_bricks_slab": "Андезитовая кирпичная плита",
+
+  "block.viola.stone_tiles": "Каменный плитняк",
+  "block.viola.stone_tiles_stairs": "Ступени из каменного плитняка",
+  "block.viola.stone_tiles_slab": "Плита из каменного плитняка",
+
+  "block.viola.white_stone_block": "Белый камень",
+  "block.viola.white_stone_slab": "Белая каменная плита",
+  "block.viola.white_stone_stairs": "Белые каменные ступеньки",
+
+  "block.viola.white_stone_bricks": "Белокаменные кирпичи",
+  "block.viola.white_stone_bricks_stairs": "Белокаменные кирпичные ступеньки",
+  "block.viola.white_stone_bricks_slab": "Белокаменная кирпичная плита",
+
+  "block.viola.white_stone_tiles": "Белый каменный плитняк",
+  "block.viola.white_stone_tiles_stairs": "Ступеньки из белого каменного плитняка",
+  "block.viola.white_stone_tiles_slab": "Плита из белого каменного плитняка"
+}

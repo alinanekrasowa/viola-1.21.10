@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "viola:andesite_bricks",
+    "viola:andesite_bricks_stairs",
+    "viola:andesite_bricks_slab",
+    "viola:stone_tiles",
+    "viola:stone_tiles_stairs",
+    "viola:stone_tiles_slab",
+    "viola:white_stone",
+    "viola:white_stone_stairs",
+    "viola:white_stone_slab",
+    "viola:white_stone_bricks",
+    "viola:white_stone_bricks_stairs",
+    "viola:white_stone_bricks_slab",
+    "viola:white_stone_tiles",
+    "viola:white_stone_tiles_stairs",
+    "viola:white_stone_tiles_slab"
+  ]
+}

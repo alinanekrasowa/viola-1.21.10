@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "viola:block/stone_tiles",
+    "top": "viola:block/stone_tiles",
+    "side": "viola:block/stone_tiles"
+  }
+}

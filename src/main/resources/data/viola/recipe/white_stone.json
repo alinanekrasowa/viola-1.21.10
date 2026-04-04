@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#W#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:stone",
+        "W": "minecraft:white_dye"
+    },
+    "result": {
+        "id": "viola:white_stone",
+        "count": 8
+    }
+}

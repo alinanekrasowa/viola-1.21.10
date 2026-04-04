@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "viola:block/stone_tiles_slab"
+    },
+    "type=double": {
+      "model": "viola:block/stone_tiles"
+    },
+    "type=top": {
+      "model": "viola:block/stone_tiles_slab_top"
+    }
+  }
+}
