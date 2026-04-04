@@ -1,0 +1,85 @@
+plugins {
+    id 'net.fabricmc.fabric-loom' version "${loom_version}"
+    id 'maven-publish'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+sourceSets {
+    datagen {
+        java.srcDirs = ['src/datagen/java']
+        resources.srcDirs = ['src/datagen/resources']
+    }
+}
+
+fabricApi {
+    configureDataGeneration()
+}
+
+repositories {
+}
+
+loom {
+    splitEnvironmentSourceSets()
+
+    mods {
+        "viola" {
+            sourceSet sourceSets.main
+            sourceSet sourceSets.client
+            sourceSet sourceSets.datagen
+        }
+    }
+    // Correct way to specify mappings in newer Loom versions
+    mappings("net.fabricmc:yarn:1.21.10+build.3:v2")
+}
+
+afterEvaluate {
+    sourceSets.datagen.compileClasspath += sourceSets.main.compileClasspath + sourceSets.client.compileClasspath
+    sourceSets.datagen.runtimeClasspath += sourceSets.main.runtimeClasspath + sourceSets.client.runtimeClasspath
+}
+
+configurations {
+    datagenImplementation.extendsFrom modImplementation
+    datagenRuntimeOnly.extendsFrom modRuntimeOnly
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+}
+
+processResources {
+    inputs.property "version", project.version
+    filesMatching("fabric.mod.json") {
+        expand "version": inputs.properties.version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 21
+}
+
+java {
+    withSourcesJar()
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+jar {
+    inputs.property "projectName", project.name
+    from("LICENSE") {
+        rename { "${it}_${project.name}"}
+    }
+}
+
+publishing {
+    publications {
+        create("mavenJava", MavenPublication) {
+            from components.java
+        }
+    }
+    repositories {
+    }
+}

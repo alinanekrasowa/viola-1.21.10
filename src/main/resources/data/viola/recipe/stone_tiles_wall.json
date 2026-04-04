@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": "viola:stone_tiles"
+    },
+    "result": {
+        "id": "viola:stone_tiles_wall",
+        "count": 6
+    }
+}

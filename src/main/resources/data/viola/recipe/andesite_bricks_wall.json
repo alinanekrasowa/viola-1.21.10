@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": "viola:andesite_bricks"
+    },
+    "result": {
+        "id": "viola:andesite_bricks_wall",
+        "count": 6
+    }
+}

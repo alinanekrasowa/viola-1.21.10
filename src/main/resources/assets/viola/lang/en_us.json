@@ -2,24 +2,67 @@
   "block.viola.andesite_bricks": "Andesite Bricks",
   "block.viola.andesite_bricks_stairs": "Andesite Brick Stairs",
   "block.viola.andesite_bricks_slab": "Andesite Brick Slab",
+  "block.viola.andesite_bricks_wall": "Andesite Brick Wall",
 
+  "block.viola.mossy_andesite_bricks": "Mossy Andesite Bricks",
+  "block.viola.mossy_andesite_bricks_stairs": "Mossy Andesite Brick Stairs",
+  "block.viola.mossy_andesite_bricks_slab": "Mossy Andesite Brick Slab",
+  "block.viola.mossy_andesite_bricks_wall": "Mossy Andesite Brick Wall",
+
+  "block.viola.cracked_andesite_bricks": "Cracked Andesite Bricks",
+  "block.viola.cracked_andesite_bricks_stairs": "Cracked Andesite Brick Stairs",
+  "block.viola.cracked_andesite_bricks_slab": "Cracked Andesite Brick Slab",
+  "block.viola.cracked_andesite_bricks_wall": "Cracked Andesite Brick Wall",
+    
   "block.viola.stone_tiles": "Stone Tiles",
   "block.viola.stone_tiles_stairs": "Stone Tile Stairs",
   "block.viola.stone_tiles_slab": "Stone Tile Slab",
+  "block.viola.stone_tiles_wall": "Stone Tile Wall",
+
+  "block.viola.mossy_stone_tiles": "Mossy Stone Tiles",
+  "block.viola.mossy_stone_tiles_stairs": "Mossy Stone Tile Stairs",
+  "block.viola.mossy_stone_tiles_slab": "Mossy Stone Tile Slab",
+  "block.viola.mossy_stone_tiles_wall": "Mossy Stone Tile Wall",
+
+  "block.viola.cracked_stone_tiles": "Cracked Stone Tiles",
+  "block.viola.cracked_stone_tiles_stairs": "Cracked Stone Tile Stairs",
+  "block.viola.cracked_stone_tiles_slab": "Cracked Stone Tile Slab",
+  "block.viola.cracked_stone_tiles_wall": "Cracked Stone Tile Wall",
   
-  "block.viola.white_stone_block": "White Stone Block",
+  "block.viola.white_stone_block": "White Stone",
   "block.viola.white_stone_slab": "White Stone Slab",
   "block.viola.white_stone_stairs": "White Stone Stairs",
+  "block.viola.white_stone_wall": "White Stone Wall",
 
   "block.viola.white_stone_bricks": "White Stone Bricks",
   "block.viola.white_stone_bricks_stairs": "White Stone Brick Stairs",
   "block.viola.white_stone_bricks_slab": "White Stone Brick Slab",
+  "block.viola.white_stone_bricks_wall": "White Stone Brick Wall",
+
+  "block.viola.mossy_white_stone_bricks": "Mossy White Stone Bricks",
+  "block.viola.mossy_white_stone_bricks_stairs": "Mossy White Stone Brick Stairs",
+  "block.viola.mossy_white_stone_bricks_slab": "Mossy White Stone Brick Slab",
+  "block.viola.mossy_white_stone_bricks_wall": "Mossy White Stone Brick Wall",
+
+  "block.viola.cracked_white_stone_bricks": "Cracked White Stone Bricks",
+  "block.viola.cracked_white_stone_bricks_stairs": "Cracked White Stone Brick Stairs",
+  "block.viola.cracked_white_stone_bricks_slab": "Cracked White Stone Brick Slab",
+  "block.viola.cracked_white_stone_bricks_wall": "Cracked White Stone Brick Wall",
 
   "block.viola.white_stone_tiles": "White Stone Tiles",
   "block.viola.white_stone_tiles_stairs": "White Stone Tile Stairs",
   "block.viola.white_stone_tiles_slab": "White Stone Tile Slab",
+  "block.viola.white_stone_tiles_wall": "White Stone Tile Wall",
 
-  "block.viola.calcite_bricks": "Calcite Bricks",
-  "block.viola.calcite_bricks_stairs": "Calcite Brick Stairs",
-  "block.viola.calcite_bricks_slab": "Calcite Brick Slab"
+  "block.viola.mossy_white_stone_tiles": "Mossy White Stone Tiles",
+  "block.viola.mossy_white_stone_tiles_stairs": "Mossy White Stone Tile Stairs",
+  "block.viola.mossy_white_stone_tiles_slab": "Mossy White Stone Tile Slab",
+  "block.viola.mossy_white_stone_tiles_wall": "Mossy White Stone Tile Wall",
+
+  "block.viola.cracked_white_stone_tiles": "Cracked White Stone Tiles",
+  "block.viola.cracked_white_stone_tiles_stairs": "Cracked White Stone Tile Stairs",
+  "block.viola.cracked_white_stone_tiles_slab": "Cracked White Stone Tile Slab",
+  "block.viola.cracked_white_stone_tiles_wall": "Cracked White Stone Tile Wall",
+
+  "block.viola.smooth_quartz_wall": "Smooth Quartz Wall"
 }

@@ -15,6 +15,20 @@
     "viola:white_stone_bricks_slab",
     "viola:white_stone_tiles",
     "viola:white_stone_tiles_stairs",
-    "viola:white_stone_tiles_slab"
+    "viola:white_stone_tiles_slab",
+    "viola:andesite_bricks_wall",
+    "viola:stone_tiles_wall",
+    "viola:white_stone_wall",
+    "viola:white_stone_bricks_wall",
+    "viola:white_stone_tiles_wall",
+    "viola:smooth_quartz_wall",
+    "viola:mossy_andesite_bricks",
+    "viola:cracked_andesite_bricks",
+    "viola:mossy_stone_tiles",
+    "viola:cracked_stone_tiles",
+    "viola:mossy_white_stone_bricks",
+    "viola:cracked_white_stone_bricks",
+    "viola:mossy_white_stone_tiles",
+    "viola:cracked_white_stone_tiles"
   ]
 }

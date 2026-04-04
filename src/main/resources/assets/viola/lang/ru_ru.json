@@ -2,20 +2,67 @@
   "block.viola.andesite_bricks": "Андезитовые кирпичи",
   "block.viola.andesite_bricks_stairs": "Андезитовые кирпичные ступеньки",
   "block.viola.andesite_bricks_slab": "Андезитовая кирпичная плита",
+  "block.viola.andesite_bricks_wall": "Ограда из андезитовых кирпичей",
+
+  "block.viola.mossy_andesite_bricks": "Замшелые андезитовые кирпичи",
+  "block.viola.mossy_andesite_bricks_stairs": "Замшелые андезитовые кирпичные ступеньки",
+  "block.viola.mossy_andesite_bricks_slab": "Замшелая андезитовая кирпичная плита",
+  "block.viola.mossy_andesite_bricks_wall": "Ограда из замшелых андезитовых кирпичей",
+
+  "block.viola.cracked_andesite_bricks": "Потрескавшиеся андезитовые кирпичи",
+  "block.viola.cracked_andesite_bricks_stairs": "Потрескавшиеся андезитовые кирпичные ступеньки",
+  "block.viola.cracked_andesite_bricks_slab": "Потрескавшаяся андезитовая кирпичная плита",
+  "block.viola.cracked_andesite_bricks_wall": "Ограда из потрескавшихся андезитовых кирпичей",
 
   "block.viola.stone_tiles": "Каменный плитняк",
-  "block.viola.stone_tiles_stairs": "Ступени из каменного плитняка",
+  "block.viola.stone_tiles_stairs": "Ступеньки из каменного плитняка",
   "block.viola.stone_tiles_slab": "Плита из каменного плитняка",
+  "block.viola.stone_tiles_wall": "Ограда из каменного плитняка",
+
+  "block.viola.mossy_stone_tiles": "Замшелый каменный плитняк",
+  "block.viola.mossy_stone_tiles_stairs": "Ступеньки из замшелого каменного плитняка",
+  "block.viola.mossy_stone_tiles_slab": "Плита из замшелого каменного плитняка",
+  "block.viola.mossy_stone_tiles_wall": "Ограда из замшелого каменного плитняка",
+
+  "block.viola.cracked_stone_tiles": "Потрескавшийся каменный плитняк",
+  "block.viola.cracked_stone_tiles_stairs": "Ступеньки из потрескавшегося каменного плитняка",
+  "block.viola.cracked_stone_tiles_slab": "Плита из потрескавшегося каменного плитняка",
+  "block.viola.cracked_stone_tiles_wall": "Ограда из потрескавшегося каменного плитняка",
 
   "block.viola.white_stone_block": "Белый камень",
   "block.viola.white_stone_slab": "Белая каменная плита",
   "block.viola.white_stone_stairs": "Белые каменные ступеньки",
+  "block.viola.white_stone_wall": "Ограда из белого камня",
 
   "block.viola.white_stone_bricks": "Белокаменные кирпичи",
   "block.viola.white_stone_bricks_stairs": "Белокаменные кирпичные ступеньки",
   "block.viola.white_stone_bricks_slab": "Белокаменная кирпичная плита",
+  "block.viola.white_stone_bricks_wall": "Ограда из белокаменных кирпичей",
+
+  "block.viola.mossy_white_stone_bricks": "Замшелые белокаменные кирпичи",
+  "block.viola.mossy_white_stone_bricks_stairs": "Замшелые белокаменные кирпичные ступеньки",
+  "block.viola.mossy_white_stone_bricks_slab": "Замшелая белокаменная кирпичная плита",
+  "block.viola.mossy_white_stone_bricks_wall": "Ограда из замшелых белокаменных кирпичей",
+
+  "block.viola.cracked_white_stone_bricks": "Потрескавшиеся белокаменные кирпичи",
+  "block.viola.cracked_white_stone_bricks_stairs": "Потрескавшиеся белокаменные кирпичные ступеньки",
+  "block.viola.cracked_white_stone_bricks_slab": "Потрескавшаяся белокаменная кирпичная плита",
+  "block.viola.cracked_white_stone_bricks_wall": "Ограда из потрескавшихся белокаменных кирпичей",
 
   "block.viola.white_stone_tiles": "Белый каменный плитняк",
   "block.viola.white_stone_tiles_stairs": "Ступеньки из белого каменного плитняка",
-  "block.viola.white_stone_tiles_slab": "Плита из белого каменного плитняка"
+  "block.viola.white_stone_tiles_slab": "Плита из белого каменного плитняка",
+  "block.viola.white_stone_tiles_wall": "Ограда из белого каменного плитняка",
+
+  "block.viola.mossy_white_stone_tiles": "Замшелый белый каменный плитняк",
+  "block.viola.mossy_white_stone_tiles_stairs": "Ступеньки из замшелого белого каменного плитняка",
+  "block.viola.mossy_white_stone_tiles_slab": "Плита из замшелого белого каменного плитняка",
+  "block.viola.mossy_white_stone_tiles_wall": "Ограда из замшелого белого каменного плитняка",
+
+  "block.viola.cracked_white_stone_tiles": "Потрескавшийся белый каменный плитняк",
+  "block.viola.cracked_white_stone_tiles_stairs": "Ступеньки из потрескавшегося белого каменного плитняка",
+  "block.viola.cracked_white_stone_tiles_slab": "Плита из потрескавшегося белого каменного плитняка",
+  "block.viola.cracked_white_stone_tiles_wall": "Ограда из потрескавшегося белого каменного плитняка",
+
+  "block.viola.smooth_quartz_wall": "Ограда из гладкого кварца"
 }

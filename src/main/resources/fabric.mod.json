@@ -15,12 +15,15 @@
 	"icon": "assets/viola/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
-			"com.viola.VIOLA"
-		],
-		"client": [
-			"com.viola.client.VIOLAClient"
-		]
+  "main": [
+		"com.viola.VIOLA"
+	],
+	"client": [
+		"com.viola.client.VIOLAClient"
+	],
+	"fabric-datagen": [
+		"com.viola.ModDataGenerator"
+	]
 	},
 	"mixins": [
 		"viola.mixins.json",

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "viola:andesite_bricks",
+        "minecraft:vine"
+    ],
+    "result": {
+        "id": "viola:mossy_andesite_bricks",
+        "count": 1
+    }
+}

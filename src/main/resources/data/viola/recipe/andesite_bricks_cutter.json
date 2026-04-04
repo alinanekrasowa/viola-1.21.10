@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "id": "minecraft:andesite",
+        "count": 1
+    },
+    "result": {
+        "id": "viola:andesite_bricks",
+        "count": 1
+    }
+}

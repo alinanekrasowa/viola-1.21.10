@@ -2,24 +2,82 @@
   "block.viola.andesite_bricks": "Андезітові цеглини",
   "block.viola.andesite_bricks_stairs": "Андезітові кирпичні сходи",
   "block.viola.andesite_bricks_slab": "Андезітова кирпична плита",
+  "block.viola.andesite_bricks_wall": "Огорожа з андезитової цегли",
+
+  "block.viola.mossy_andesite_bricks": "Замшелі андезітові цеглини",
+  "block.viola.mossy_andesite_bricks_stairs": "Замшелі андезітові кирпичні сходи",
+  "block.viola.mossy_andesite_bricks_slab": "Замшела андезітова кирпична плита",
+  "block.viola.mossy_andesite_bricks_wall": "Огорожа з замшелої андезитової цегли",
+
+  "block.viola.cracked_andesite_bricks": "Потріскані андезітові цеглини",
+  "block.viola.cracked_andesite_bricks_stairs": "Потріскані андезітові кирпичні сходи",
+  "block.viola.cracked_andesite_bricks_slab": "Потріскана андезітова кирпична плита",
+  "block.viola.cracked_andesite_bricks_wall": "Огорожа з потрісканої андезитової цегли",
 
   "block.viola.stone_tiles": "Каменна плитка",
   "block.viola.stone_tiles_stairs": "Сходи з каменної плитки",
   "block.viola.stone_tiles_slab": "Плита з каменного плитняка",
+  "block.viola.stone_tiles_wall": "Огорожа з кам'яної плитки",
+
+  "block.viola.mossy_stone_tiles": "Замшела кам'яна плитка",
+  "block.viola.mossy_stone_tiles_stairs": "Сходи з замшелої кам'яної плитки",
+  "block.viola.mossy_stone_tiles_slab": "Плита з замшелого каменного плитняка",
+  "block.viola.mossy_stone_tiles_wall": "Огорожа з замшелої кам'яної плитки",
+
+  "block.viola.cracked_stone_tiles": "Потріскана кам'яна плитка",
+  "block.viola.cracked_stone_tiles_stairs": "Сходи з потрісканої кам'яної плитки",
+  "block.viola.cracked_stone_tiles_slab": "Плита з потрісканого каменного плитняка",
+  "block.viola.cracked_stone_tiles_wall": "Огорожа з потрісканої кам'яної плитки",
 
   "block.viola.white_stone_block": "Білий камінь",
   "block.viola.white_stone_slab": "Біла кам'яна плита",
   "block.viola.white_stone_stairs": "Білі кам'яні сходи",
+  "block.viola.white_stone_wall": "Огорожа з білого каменю",
 
   "block.viola.white_stone_bricks": "Білокам'яні цеглини",
   "block.viola.white_stone_bricks_stairs": "Білокам'яні кирпичні сходи",
   "block.viola.white_stone_bricks_slab": "Білокам'яна кирпична плита",
+  "block.viola.white_stone_bricks_wall": "Огорожа з білокам'яної цегли",
+
+  "block.viola.mossy_white_stone_bricks": "Замшелі білокам'яні цеглини",
+  "block.viola.mossy_white_stone_bricks_stairs": "Замшелі білокам'яні кирпичні сходи",
+  "block.viola.mossy_white_stone_bricks_slab": "Замшела білокам'яна кирпична плита",
+  "block.viola.mossy_white_stone_bricks_wall": "Огорожа з замшелої білокам'яної цегли",
+
+  "block.viola.cracked_white_stone_bricks": "Потріскані білокам'яні цеглини",
+  "block.viola.cracked_white_stone_bricks_stairs": "Потріскані білокам'яні кирпичні сходи",
+  "block.viola.cracked_white_stone_bricks_slab": "Потріскана білокам'яна кирпична плита",
+  "block.viola.cracked_white_stone_bricks_wall": "Огорожа з потрісканої білокам'яної цегли",
 
   "block.viola.white_stone_tiles": "Біла камenna плитка",
   "block.viola.white_stone_tiles_stairs": "Сходи з білої каменної плитки",
   "block.viola.white_stone_tiles_slab": "Плита з білої каменної плитки",
+  "block.viola.white_stone_tiles_wall": "Огорожа з білої кам'яної плитки",
+
+  "block.viola.mossy_white_stone_tiles": "Замшела біла кам'яна плитка",
+  "block.viola.mossy_white_stone_tiles_stairs": "Сходи з замшелої білої кам'яної плитки",
+  "block.viola.mossy_white_stone_tiles_slab": "Плита з замшелої білої кам'яної плитки",
+  "block.viola.mossy_white_stone_tiles_wall": "Огорожа з замшелої білої кам'яної плитки",
+
+  "block.viola.cracked_white_stone_tiles": "Потріскана біла кам'яна плитка",
+  "block.viola.cracked_white_stone_tiles_stairs": "Сходи з потрісканої білої кам'яної плитки",
+  "block.viola.cracked_white_stone_tiles_slab": "Плита з потрісканої білої кам'яної плитки",
+  "block.viola.cracked_white_stone_tiles_wall": "Огорожа з потрісканої білої кам'яної плитки",
 
   "block.viola.calcite_bricks": "Кальцитові цеглини",
   "block.viola.calcite_bricks_stairs": "Кальцитові кирпичні сходи",
-  "block.viola.calcite_bricks_slab": "Кальцитова кирпична плита"
+  "block.viola.calcite_bricks_slab": "Кальцитова кирпична плита",
+  "block.viola.calcite_bricks_wall": "Огорожа з кальцитової цегли",
+
+  "block.viola.mossy_calcite_bricks": "Замшелі кальцитові цеглини",
+  "block.viola.mossy_calcite_bricks_stairs": "Замшелі кальцитові кирпичні сходи",
+  "block.viola.mossy_calcite_bricks_slab": "Замшела кальцитова кирпична плита",
+  "block.viola.mossy_calcite_bricks_wall": "Огорожа з замшелої кальцитової цегли",
+
+  "block.viola.cracked_calcite_bricks": "Потріскані кальцитові цеглини",
+  "block.viola.cracked_calcite_bricks_stairs": "Потріскані кальцитові кирпичні сходи",
+  "block.viola.cracked_calcite_bricks_slab": "Потріскана кальцитова кирпична плита",
+  "block.viola.cracked_calcite_bricks_wall": "Огорожа з потрісканої кальцитової цегли",
+
+  "block.viola.smooth_quartz_wall": "Огорожа з гладкого кварцу"
 }
